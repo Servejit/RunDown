@@ -1,6 +1,7 @@
-streamlit
-yfinance
-pandas
-requests
-pytz
-numpy
+streamlit==1.32.2
+streamlit-autorefresh==1.0.1
+yfinance==0.2.37
+pandas==2.2.1
+requests==2.31.0
+pytz==2024.1
+numpy==1.26.4
